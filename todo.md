@@ -1,0 +1,1 @@
+faire une classe qui contient tout ce que j'apprend sur l'analyse de portfolio, en AM

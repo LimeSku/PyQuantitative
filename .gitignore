@@ -1,0 +1,3 @@
+quantenv/
+.quantenv/
+**/__pycache__/
